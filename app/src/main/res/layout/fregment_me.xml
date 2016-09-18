@@ -17,8 +17,9 @@
             android:textColor="@color/colorPrimary"
             android:textSize="@dimen/big_txt_size"/>
     </LinearLayout>
-    <ScrollView
+    <ListView
+        android:id="@+id/listView_fregment_me"
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:id="@+id/user_frg_Scroll"/>
+        android:layout_height="match_parent"/>
+
 </LinearLayout>
