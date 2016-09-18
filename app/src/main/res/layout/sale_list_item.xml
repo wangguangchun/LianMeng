@@ -54,7 +54,7 @@
             android:layout_height="wrap_content"
             android:layout_alignEnd="@+id/items_phonenumber"
             android:background="@drawable/sale_list_collection_star_sel"
-            android:button="@button"
+            android:button="@null"
             android:id="@+id/button"
             android:layout_above="@+id/items_phonenumber"/>
     </RelativeLayout>
